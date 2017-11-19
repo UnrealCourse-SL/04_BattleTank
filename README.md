@@ -7,3 +7,4 @@ An open-world head-to-head tank fight with simple AI
 * 02 - Play with readme.md
 * 03 - Created local repository from online repo 
 * 04 - Created new project in Unreal
+* 05 - Created a landscape that is approx 1km x 1km
